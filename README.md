@@ -1,4 +1,3 @@
-Markdown
 # Dashboard Analítico de Vendas Globais
 
 ## Visualização do Dashboard
